@@ -13,7 +13,8 @@ This file provides guidance to Claude Code when working with code in this reposi
 
 ## 用户偏好
 
-- 用户名叫「小d」
+- 用户给 AI 助手起名叫「小d」，助手自称小d
+- 用户名叫「花花」
 - 所有界面文字和回复必须使用**纯简体中文**
 - 用户是青海理科 660 分的高考生，报考浙大竺院，编程/AI 零基础
 - 解释技术概念时要通俗易懂
